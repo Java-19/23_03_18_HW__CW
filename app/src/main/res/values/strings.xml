@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Java_19_23_03_18_HW</string>
+    <string name="name_edit">edit.name.action</string>
+    <string name="email_edit">edit.email.action</string>
+    <string name="phone_edit">edit.phone.action</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="type_name">Type name</string>
+    <string name="type_email">Type email</string>
+    <string name="type_phone">Type phone</string>
+    <string name="ok">ok</string>
+
+</resources>

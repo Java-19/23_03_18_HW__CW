@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Java_19_23_03_18_HW</string>
+    <string name="name_edit">edit.name.action</string>
+    <string name="email_edit">edit.email.action</string>
+    <string name="phone_edit">edit.phone.action</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="name">Имя</string>
+    <string name="email">Почта</string>
+    <string name="phone">Телефон</string>
+    <string name="type_name">Введите имя</string>
+    <string name="type_email">Введите почту</string>
+    <string name="type_phone">Введите телефон</string>
+    <string name="ok">Сохранить</string>
+    <string name="my_text">Мой текс</string>
+</resources>
